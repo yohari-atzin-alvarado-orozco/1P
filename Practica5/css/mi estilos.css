@@ -37,7 +37,7 @@
             padding-top: 10px;
             padding-bottom: 10px;
             font-size: 20px;
-            background-color: rgb(73, 45, 8);
+            background-color: rgb(126, 106, 143);
             color: aliceblue;
             margin-top: 30px;
             margin-bottom: 30px;
@@ -47,19 +47,19 @@
         }
 
 .colorfondoazul{
-    background-color: rgb(0, 141, 19);
+    background-color: rgb(139, 38, 206);
     padding: 1px;
     color: rgb(255, 255, 255);
     border: rgb(182, 180, 180) solid;
     border-radius: 0%  0%  0%  0%;
 }
 .colorfondovioleta{
-    background-color: rgb(102, 68, 24);
+    background-color: rgba(175, 98, 190, 0.575);
     color: beige;
     padding: 10px;
 }
 .colorfondoazulclaro{
-    background-color: aqua;
+    background-color: rgba(156, 145, 170, 0.904);
     color: black;
 }
 
